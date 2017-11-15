@@ -3,3 +3,5 @@ In the department of Geomatics, Computer Science and Mathematics, Stuttgart Univ
 1.	Planning of photogrammetric flight lines
 2.	visualize the position tracks by getting the real time position (latitude, longitude and altitude) data and rotations (omega, phi and kappa) data from the Xsens MTi-G device through serial port 
 3.	Finally calculate the horizontal and vertical shift from the planned flight line and show the shifts as well as the rotations in a graphical user interface.
+
+For additional detail please visit the wiki page https://github.com/Md-ImranHossain/Photogrammetric-Flight-guidance-application-for-Windows-Mobile-platform/wiki
